@@ -1,0 +1,13 @@
+EQ EQ
+B  BI
+BI B 
+D  DI
+DI D 
+O  OI
+OI O 
+M  MI
+MI M 
+S  SI
+SI S
+F  FI
+FI F
